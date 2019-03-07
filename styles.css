@@ -1,0 +1,33 @@
+#header{
+    font-family: 'Charmonman', cursive;
+    text-align:center;
+    color:midnightblue;
+    background:url("");
+    }
+img{
+   height:200px;
+   }
+#pictuers{
+    display:flex;
+   justify-content:space-around; 
+}
+#Secondheader{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    background-color:red;}
+ .hook{
+     font-family: 'Satisfy', cursive;
+  background-color:red;
+  font-size:30px;
+    }
+
+#donation{
+    font-family: 'Charmonman', cursive;
+    }
+button{
+    text-align:center;
+    }
+#header,#donation{
+    display:flex;
+    justify-content:center;
+    }
